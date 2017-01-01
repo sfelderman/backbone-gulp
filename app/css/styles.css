@@ -21,7 +21,8 @@ body {
 
 #todo-list .editing label {
   display: none;
-  /* Hides label text when .editing*/ }
+  /* Hides label text when .editing*/
+  font-size: 15px; }
 
 #todo-list .editing input.edit {
   display: inline;
